@@ -16,4 +16,4 @@ This project demonstrates the feasibility of **low-cost robotic automation** for
 
 ---
 
-🎥 **[Working Video]([https://your-video-link.com](https://drive.google.com/file/d/1lXpYHI4knLp4dMYhHaK8WeYn1xsEYoBP/view?usp=drivesdk))**  
+🎥 **[Working Video](https://drive.google.com/file/d/1lXpYHI4knLp4dMYhHaK8WeYn1xsEYoBP/view?usp=drivesdk)**  
